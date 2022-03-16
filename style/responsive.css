@@ -1,0 +1,132 @@
+@media (max-width: 768px) {
+    .navigation {
+        display: none;
+    }
+    .burger-icon {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+    .header-h2 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header-a {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    .header-texst {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .contact-box-text {
+        margin-left: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .contact-box-h2 {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 768px) {
+    .left-raight-form {
+        margin-left: auto;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .text-area-form {
+        max-width: 500px;
+        width: 100%;
+        height: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .left-block-form {
+        width: 500px;
+        height: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .raight-block-form {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .label {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .information-box {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 768px) {
+    .round-box {
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .images-h3 {
+        margin: auto;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    .images-h2 {
+        margin: auto;
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 768px) {
+    .images {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 768px) {
+    .footer {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        height: auto;
+    }
+}
